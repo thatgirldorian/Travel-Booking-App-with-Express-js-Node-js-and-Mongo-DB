@@ -2,6 +2,7 @@
 
 <h3>Function & Description:</h3>
 This is a travel booking app that allows users to:
+
 - sign up for an account
 - log in and book the hotels of their choice in various countries 
 - search for hotels
